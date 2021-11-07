@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW6</string>
+    <string name="switch_b">switch B</string>
+    <string name="b">B</string>
+    <string name="switch_a">switch A</string>
+    <string name="a">A</string>
+</resources>
